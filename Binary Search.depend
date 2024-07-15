@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1709721444 source:c:\users\spiri\onedrive\documents\coding\c++\binary search\binsearch.cpp
+	"binsearch.h"
+	<iostream>
+
+1709721359 c:\users\spiri\onedrive\documents\coding\c++\binary search\binsearch.h
+
+1709721427 source:c:\users\spiri\onedrive\documents\coding\c++\binary search\main.cpp
+	<iostream>
+	"binsearch.h"
+
